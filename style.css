@@ -28,6 +28,10 @@ body {
   border: 0;
 }
 
+.btn-business {
+  margin: auto;
+}
+
 .btn:hover {
   background: #9e15bf;
 }
